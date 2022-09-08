@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.header{
+  padding: 0px;;
+  text-align: center;
+  height: 80px;
+  line-height: 80px;
+  width: 100%;
+  background-color: darkslategray;
+  color: bisque;
+}
+
